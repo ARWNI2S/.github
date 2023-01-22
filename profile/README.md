@@ -1,5 +1,9 @@
 # Narrative Interactive Intelligent Simulator
 **Automated Game Mastering for Open World MMORPG**
+[![NuGet](https://img.shields.io/nuget/v/Microsoft.Orleans.Core.svg?style=flat)](http://www.nuget.org/profiles/Orleans)
+[![Discord](https://img.shields.io/discord/333727978460676096?color=4db798&label=Discord%20Chat&logoColor=4db798)](https://aka.ms/orleans-discord)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/msftorleans.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=msftorleans)
+
 
 The video game industry has developed around recognized computer technologies, such as digital imaging, sound and simulation. However, the application of certain gaming concepts to the digital platform has resulted in a vague approach. This is the case of role-playing video games, and more specifically MMORPGs, which result in a product very far from the original tabletop game format. This differentiation has been justified in many ways by the authors of the different titles.
 
@@ -18,3 +22,10 @@ Our published repositories contains all the sources needed to build current NI2S
 - [ARWNI2S/Narrative-Simulator](https://github.com/ARWNI2S/Narrative-Simulator), containing code, and… TODO: describe...
 - [ARWNI2S/NI2S-Infrastructure](https://github.com/ARWNI2S/NI2S-Infrastructure), containing code, and… TODO: describe...
 - [ARWNI2S/NI2S-Unreal](https://github.com/ARWNI2S/NI2S-Unreal), Unreal Engine plugin for NI2S.
+
+<p align="center">
+  <image src="https://raw.githubusercontent.com/dotnet/orleans/gh-pages/assets/logo_full.png" alt="Orleans logo" width="600px">
+</p>
+
+
+### Orleans is a cross-platform framework for building robust, scalable distributed applications
