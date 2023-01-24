@@ -11,13 +11,4 @@ We can show that the difference between tabletop role-playing games and role-pla
 
 If you want to know more about this framework for MMORPGs based on interactive digital storytelling and complex systems you can read the [NI2S whitepaper](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/Whitepaper.pdf), or the 100+ pages [NI2S analysis document](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/NI2S_full.pdf).
 
-The project is at a fairly advanced stage of development, although we cannot offer a complete API, the current state is in the integration with [NI2S Engine](https://not.available.yet/) for use as a client narrator and as an editor of narrative models in open worlds.
-
-Our published repositories contains all the sources needed to build current NI2S system and components:
-
-- [ARWNI2S/Narrative-Simulator](https://github.com/ARWNI2S/Narrative-Simulator), containing code, and… TODO: describe...
-- [ARWNI2S/NI2S-Infrastructure](https://github.com/ARWNI2S/NI2S-Infrastructure), containing code, and… TODO: describe...
-- [ARWNI2S/NI2S-Unreal](https://github.com/ARWNI2S/NI2S-Unreal), Unreal Engine plugin for NI2S.
-- [ARWNI2S/NI2S-Unity](https://github.com/ARWNI2S/NI2S-Unity), Unity package for NI2S. (coming soon...)
-- [ARWNI2S/NI2S-CryEngine](https://github.com/ARWNI2S/NI2S-CryEngine), CRYPLUGIN for NI2S. (coming soon...)
-
+The project is at a fairly advanced stage of development, although we cannot offer a complete API, the current state is in the [ARWNI2S/Narrative-Simulator](https://github.com/ARWNI2S/Narrative-Simulator) repositoriy for use as narrative simulation cluster and the [ARWNI2S/NI2S-Unreal](https://github.com/ARWNI2S/NI2S-Unreal) for use Unreal Engine as the presentation and editor layers of NI2S.
