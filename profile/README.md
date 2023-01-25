@@ -1,7 +1,7 @@
 # Narrative Interactive Intelligent Simulator
 **Automated Game Mastering for Open World MMORPG**
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](assets/images/work-in-progress.png)
 
 The video game industry has developed around recognized computer technologies, such as digital imaging, sound and simulation. However, the application of certain gaming concepts to the digital platform has resulted in a vague approach. This is the case of role-playing video games, and more specifically MMORPGs, which result in a product very far from the original tabletop game format. This differentiation has been justified in many ways by the authors of the different titles.
 
