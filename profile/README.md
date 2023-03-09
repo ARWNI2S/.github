@@ -3,6 +3,8 @@
 
 [![Join the chat at https://discord.com/channels/1082861111117889606/1082861257297764413](https://img.shields.io/discord/1082861111117889606?logo=discord&style=social)](https://discord.com/channels/1082861111117889606/1082861257297764413)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/arwni2s?logo=github&style=social)
+[![Liberpay Donate](https://img.shields.io/liberapay/goal/ARWNI2S?label=Donate&logo=liberapay&style=flat)](https://liberapay.com/ARWNI2S/donate)
+![Liberapay patrons](https://img.shields.io/liberapay/patrons/arwni2s?logo=liberapay)
 
 The video game industry has developed around recognized computer technologies, such as digital imaging, sound and simulation. However, the application of certain gaming concepts to the digital platform has resulted in a vague approach. This is the case of role-playing video games, and more specifically MMORPGs, which result in a product very far from the original tabletop game format. This differentiation has been justified in many ways by the authors of the different titles.
 
