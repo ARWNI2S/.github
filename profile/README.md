@@ -67,3 +67,7 @@ The project is at a fairly advanced stage of development, although we cannot off
 ![GitHub top language](https://img.shields.io/github/languages/top/arwni2s/ni2s-thirdparty?style=plastic)
 ![GitHub all releases](https://img.shields.io/github/downloads/arwni2s/ni2s-thirdparty/total?style=plastic)
 ![GitHub release (including pre-releases)](https://img.shields.io/github/v/release/arwni2s/ni2s-thirdparty?display-name=tag&include_prereleases&style=plastic)
+
+![Static Badge](https://img.shields.io/badge/BTC-DONATE-ff8000?style=plastic&logo=bitcoin)**bc1qrv2h2kjzp7ycjwrpmlsgnve4xlujw6rc5v96f9** 
+![Static Badge](https://img.shields.io/badge/SOL-DONATE-blue?style=plastic&logo=solana)**2gbQraAm9ka96CnXpJATF44FHevnWtpWaWyAXQwTzjNU** 
+
