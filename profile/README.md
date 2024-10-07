@@ -14,7 +14,7 @@ In tabletop role-playing games, all the dynamics of the game are related to the 
 
 We can show that the difference between tabletop role-playing games and role-playing video games is due to flaws in the analysis of game systems, and a random use of available technologies in time.
 
-If you want to know more about this framework for MMORPGs based on interactive digital storytelling and complex systems you can read the [NI2S whitepaper](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/Whitepaper.pdf), or the 100+ pages [NI2S analysis document](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/NI2S_full.pdf).
+If you want to know more about this framework for MMORPGs based on interactive digital storytelling and complex systems you can read the [NI2S whitepaper](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/Whitepaper.pdf), or the 100+ pages [NI2S analysis document](https://github.com/ARWNI2S/NI2S-Documentation/blob/main/pub/NI2S_full.es.pdf), only available in spanish by now.
 
 The project is at a fairly advanced stage of development, although we cannot offer a complete API, the current state is in the [ARWNI2S/Narrative-Simulator](https://github.com/ARWNI2S/Narrative-Simulator) repositoriy for use as narrative simulation cluster and the [ARWNI2S/NI2S-Unreal](https://github.com/ARWNI2S/NI2S-Unreal) for use Unreal Engine as the presentation and editor layers of NI2S.
 
